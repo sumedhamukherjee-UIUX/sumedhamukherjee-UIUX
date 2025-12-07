@@ -10,7 +10,7 @@ I am Sumedha Mukherjee, a UI/UX Designer. I'm passionate about creating clean, u
 
 ## 📂 Behance Case Studies
 - Watch Website → <https://www.behance.net/gallery/240011011/Vincero-Watch-UI-Webpage-Design>
-- Travel App UX Case Study → <https://www.behance.net/gallery/240012789/IDify-KYC-Verification-Mobile-App>
+- KYC Verification App → <https://www.behance.net/gallery/240012789/IDify-KYC-Verification-Mobile-App>
 
 
 ## 📞 Contact
